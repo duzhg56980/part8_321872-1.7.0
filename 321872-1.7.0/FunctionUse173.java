@@ -1,0 +1,6 @@
+import com.xxl.rpc.core.remoting.invoker.route.impl.XxlRpcLoadBalanceLRUStrategy;
+public class FunctionUse173 {
+public void funcUse() {
+XxlRpcLoadBalanceLRUStrategy xxlrpcloadbalancelrustrategy = new XxlRpcLoadBalanceLRUStrategy();
+}
+}
